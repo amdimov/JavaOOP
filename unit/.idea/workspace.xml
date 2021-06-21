@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="428c5b2e-7691-4efe-a9a9-a5995cc2ef1a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1qyKVOD70q7VoOC56YfwXlxY26Y" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UnitTesting" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AquariumTests.testRemove">
+    <configuration name="AquariumTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aquarium" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquariumTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTests.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aquarium" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquariumTests" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTests.testAddIfAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aquarium" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquariumTests" />
+      <option name="METHOD_NAME" value="testAddIfAdded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTests.testNameSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aquarium" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquariumTests" />
+      <option name="METHOD_NAME" value="testNameSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AquariumTests.testRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aquarium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aquarium" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquariumTests" />
+      <option name="METHOD_NAME" value="testRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AquariumTests.testRemove" />
+        <item itemvalue="JUnit.AquariumTests.testAddIfAdded" />
+        <item itemvalue="JUnit.AquariumTests.testAdd" />
+        <item itemvalue="JUnit.AquariumTests" />
+        <item itemvalue="JUnit.AquariumTests.testNameSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="428c5b2e-7691-4efe-a9a9-a5995cc2ef1a" name="Default Changelist" comment="" />
+      <created>1618046413007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618046413007</updated>
+    </task>
+    <servers />
+  </component>
+</project>
